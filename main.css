@@ -3,6 +3,7 @@
     font-family: 'Do Hyeon', sans-serif;
 }
 .myname {
+    position: relative;
     text-align: center;
     margin-top: 60%;
     color: white;
